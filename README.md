@@ -17,6 +17,8 @@ Destacar:
 - Exemplos de utilização;
 - Agradecimentos aos contribuidores.
 
+***
+
 ## Sintaxe
 
 ### Cabeçalhos
@@ -39,21 +41,63 @@ Destacar:
 
 #### Ordenada
 1. Item 1;
+	1. Item 1.1.
 2. Item 2;
 3. Item *n*.
 
 #### Não ordenada
 1. Através da utilização do hífen:
 - Item 1;
-    - Item 1.1.
+	- Item 1.1.
 - Item 2;
-- Item n.
+- Item *n*.
 2. Através da utilização do asterístico:
 * Item 1;
-    * Item 1.1.
+	* Item 1.1.
 * Item 2;
 * Item *n*.
 
 ### Links
 
 [GitHub](https://github.com/)
+
+### Quotes
+
+> If I have seen further than others, it is by standing upon the shoulders of giants.
+>
+> *(Isaac Newton)*
+
+### Tasklists
+
+- [x] Item 1;
+- [ ] Item 2;
+- [ ] Item *n*.
+
+### Código-fonte
+
+```
+const mensagem1 = "Hello";
+const mensagem2 = "world!"
+
+console.log(mensagem1, mensagem2);
+```
+
+### Tabelas
+
+| Coluna 1  | Coluna 2  | Coluna *n*  |
+|-----------|-----------|-------------|
+| Linha 1.1 | Linha 1.2 | Linha 1.*n* |
+| Linha 2.1 | Linha 2.2 | Linha 2.*n* |
+| Linha 3.1 | Linha 3.2 | Linha 3.*n* |
+
+[Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+
+### Imagens
+
+![Octocat](https://github.com/annevaz/RecursosDocumentacao/blob/master/files/Octocat.png)
+
+### Linhas horizontais
+
+***
+---
+___

@@ -101,3 +101,9 @@ console.log(mensagem1, mensagem2);
 ***
 ---
 ___
+
+### Fontes:
+
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/) (último acesso em 12/06/2020)
+
+[Blog do Mauro Pichiliani - Como fazer um bom README para o seu GitHub](http://pichiliani.com.br/como-fazer-um-bom-readme-para-o-seu-github/) (último acesso em 12/06/2020)

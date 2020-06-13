@@ -15,7 +15,9 @@ Destacar:
 - Dependências;
 - Instalação;
 - Exemplos de utilização;
-- Agradecimentos aos contribuidores.
+- Agradecimentos aos contribuidores[^1].
+
+[^1]: :heart:
 
 ***
 

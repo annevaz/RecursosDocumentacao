@@ -75,7 +75,7 @@ Destacar:
 
 ### Código-fonte
 
-```
+```javascript
 const mensagem1 = "Hello";
 const mensagem2 = "world!"
 

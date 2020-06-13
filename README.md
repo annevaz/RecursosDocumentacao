@@ -15,7 +15,9 @@ Destacar:
 - Dependências;
 - Instalação;
 - Exemplos de utilização;
-- Agradecimentos aos contribuidores.
+- Agradecimentos aos contribuidores[^1].
+
+[^1]: :heart:
 
 ***
 
@@ -75,7 +77,7 @@ Destacar:
 
 ### Código-fonte
 
-```
+```javascript
 const mensagem1 = "Hello";
 const mensagem2 = "world!"
 
@@ -101,3 +103,9 @@ console.log(mensagem1, mensagem2);
 ***
 ---
 ___
+
+### Fontes:
+
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/) (último acesso em 12/06/2020)
+
+[Blog do Mauro Pichiliani - Como fazer um bom README para o seu GitHub](http://pichiliani.com.br/como-fazer-um-bom-readme-para-o-seu-github/) (último acesso em 12/06/2020)

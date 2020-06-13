@@ -15,9 +15,7 @@ Destacar:
 - Dependências;
 - Instalação;
 - Exemplos de utilização;
-- Agradecimentos aos contribuidores[^1].
-
-[^1]: :heart:
+- Agradecimentos aos contribuidores :heart:.
 
 ***
 
@@ -79,7 +77,7 @@ Destacar:
 
 ```javascript
 const mensagem1 = "Hello";
-const mensagem2 = "world!"
+const mensagem2 = "world!";
 
 console.log(mensagem1, mensagem2);
 ```
